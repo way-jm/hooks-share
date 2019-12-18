@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    min-width: 50px;
+    min-height: 35px;
+    font-size: 15px;
+}
